@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Saloni Jain
 - 👀 I’m interested in Web App Development
 - 🌱 I’m currently learning React Query
-- 📫 You can reach me on LinkedIn https://www.linkedin.com/in/saloni-jain-8a091913a/
+- 📫 You can reach me on LinkedIn https://www.linkedin.com/in/salonijain3112/
 
 <!---
 salonijain3112/salonijain3112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
