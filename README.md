@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Saloni Jain
 - 👀 I’m interested in Web App Development
-- 🌱 I’m currently learning React Query
 - 📫 You can reach me on LinkedIn https://www.linkedin.com/in/salonijain3112/
 
 <!---
